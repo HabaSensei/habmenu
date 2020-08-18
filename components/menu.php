@@ -10,7 +10,7 @@
         <div class="main-menu">
             <div class="menu-main-nav-menu-container ">
                 <ul id="menu-main-nav-menu" class="sf-menu">
-                    <li class="menu-item menu-item-home"><a href="index.php" class="animsition-link">Inicio</a></li>
+                    <li class="menu-item menu-item-home"><a href="index.php" class="animsition-link">Inicio2</a></li>
                     <li class="menu-item"><a href="store.php" class="animsition-link">Tiendas - Bodegas</a></li>
                     <li class="menu-item"><a href="store.php">Hamburguesas</a></li>
                     <li class="menu-item"><a href="store.php">SalchiPapas</a></li>
